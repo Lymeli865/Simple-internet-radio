@@ -1,2 +1,2 @@
 # Simple internet radio
-This is simple internet radio with simple gui, you can use sourcecode in your projects
+Just simple internet radio, made using java swing and JLayer 1.0.1
